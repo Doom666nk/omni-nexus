@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#050a05"/>
+  <polygon points="256,40 472,256 256,472 40,256" fill="#0d1a0d" stroke="#deff9a" stroke-width="16"/>
+  <!-- Lignes accent aux 4 pointes du losange -->
+  <line x1="256" y1="40"  x2="256" y2="72"  stroke="#deff9a" stroke-width="4"/>
+  <line x1="472" y1="256" x2="440" y2="256" stroke="#deff9a" stroke-width="4"/>
+  <line x1="256" y1="472" x2="256" y2="440" stroke="#deff9a" stroke-width="4"/>
+  <line x1="40"  y1="256" x2="72"  y2="256" stroke="#deff9a" stroke-width="4"/>
+  <text x="256" y="290" text-anchor="middle" fill="#deff9a" font-size="120" font-weight="700" font-family="monospace" letter-spacing="8">ON</text>
+</svg>
